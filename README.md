@@ -4,7 +4,8 @@ unsik6
 - Politics and Deplomacy
 - CS
 
-@Unity
+#Unity
+#SFML
 
 <!---
 Unsik6/Unsik6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
