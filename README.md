@@ -1,4 +1,6 @@
 # unsik6
+[![Blog Badge](http://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) 
+
 - Kor
 - INHA University, CS / Politics and Deplomacy
 
