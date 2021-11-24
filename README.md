@@ -1,7 +1,5 @@
 # unsik6
-[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.naver.com%2Ftlsguswns119&count_bg=%23000000&title_bg=%2302C300&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnsik6%2F&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnsik6%2F&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - Kor
 - INHA University, CS / Politics and Deplomacy
 
