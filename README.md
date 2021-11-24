@@ -2,9 +2,7 @@
 - Kor
 - INHA University, CS / Politics and Deplomacy
 
-# What to study
-- Unity
-- SFML
+<h3 align="center"><b>🛠 what to study 🛠</b></h3> </br> <p align="center"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  &nbsp <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=SFML&logoColor=white"/></a> &nbsp </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unsik6&show_icons=true&theme=tokyonight)
 
