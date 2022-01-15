@@ -1,5 +1,8 @@
 # unsik6
-[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/github.io-181717?style=flat-square&logo=GitHub&link=https://blog.naver.com/tlsguswns119)](https://unsik6.github.io/)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - Kor
 - INHA University, CS / Politics and Deplomacy
 
