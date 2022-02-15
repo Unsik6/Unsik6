@@ -5,6 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - Kor
 - INHA University, CS / Politics and Deplomacy
+- Undergraduate researcher of the Algorithm lab of INHA univ.
 
 <h3 align="center"><b>🛠 Currently Learning 🛠</b></h3> </br> <p align="center"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  &nbsp <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=SFML&logoColor=white"/></a> &nbsp </p>
 
