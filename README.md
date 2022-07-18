@@ -1,12 +1,30 @@
 # unsik6
-[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/github.io-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/about/)
 
+&nbsp;&nbsp;Hi, I am unsik6. I am an undergraduate researcher in a laboratory about theorical computer science. I am studying pattern matching algorithm. I am still poor at programming and computer scinece, since started to study them two years ago. So, I need your help. Please contact me if you want to give me feedbacks. Thanks.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-- Kor
-- INHA University, CS / Politics and Deplomacy
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlsguswns1196xx@gmail.com)](mailto:tlsguswns1196xx@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/about/)
 
-<h3 align="center"><b>🛠 Currently Learning 🛠</b></h3> </br> <p align="center"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  &nbsp <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a> &nbsp </p>
+### :pencil2: Languages I am learning
+
+    > -  C, C++, C#
+    > -  CUDA C of NVIDIA
+    > -  Python
+
+### :computer: Programs
+    > - Unity: I wanted to work as a video game developer later. Now, It is just the plan B, and Developing video games is my hobby.
+    > - CUDA: I am studying parllel programming for GPUs, since I want to extend my option to select the topic of research.
+
+### :open_file_folder: Main personal study project (summer, 2022)
+    > - The more efficient algorithm to find a maximum common subsequence
+    > - Find the research topic, Two dimensional pattern matching
+    > - Implementation data structures and algorithms
+    > - CUDA C with examples
+
+
+<br/> <br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unsik6&show_icons=true&theme=tokyonight)
 
