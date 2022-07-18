@@ -7,20 +7,19 @@
 [![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/about/)
 
 ### :pencil2: Languages I am learning
+> -  C, C++, C#
+> -  CUDA C of NVIDIA
+> -  Python
 
-    > -  C, C++, C#
-    > -  CUDA C of NVIDIA
-    > -  Python
-
-### :computer: Programs
-    > - Unity: I wanted to work as a video game developer later. Now, It is just the plan B, and Developing video games is my hobby.
-    > - CUDA: I am studying parllel programming for GPUs, since I want to extend my option to select the topic of research.
+### :computer: Programs I am learning
+> - Unity: I wanted to work as a video game developer later. Now, It is just the plan B, and Developing video games is my hobby.
+> - CUDA: I am studying parllel programming for GPUs, since I want to extend my option to select the topic of research.
 
 ### :open_file_folder: Main personal study project (summer, 2022)
-    > - The more efficient algorithm to find a maximum common subsequence
-    > - Find the research topic, Two dimensional pattern matching
-    > - Implementation data structures and algorithms
-    > - CUDA C with examples
+> - The more efficient algorithm to find a maximum common subsequence
+> - Find the research topic, Two dimensional pattern matching
+> - Implementation data structures and algorithms
+> - CUDA C with examples
 
 
 <br/> <br/>
