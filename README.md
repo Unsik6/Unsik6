@@ -15,11 +15,10 @@
 > - Unity: I wanted to work as a video game developer later. Now, It is just the plan B, and Developing video games is my hobby.
 > - CUDA: I am studying parllel programming for GPUs, since I want to extend my option to select the topic of research.
 
-### :open_file_folder: Main personal study project (summer, 2022)
-> - The more efficient algorithm to find a maximum common subsequence
-> - Find the research topic, Two dimensional pattern matching
-> - Implementation data structures and algorithms
-> - CUDA C with examples
+### :open_file_folder: Main personal study project (fall semester, 2022)
+> - An algorithm to find a maximum common subsequence longer than output of previous research
+> - Find the research topic, Two dimensional string matching
+> - ML & NLP
 
 
 <br/> <br/>
