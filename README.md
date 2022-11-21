@@ -19,8 +19,8 @@
 ### :open_file_folder: Main personal study and work (winter, 2022)
 > - An algorithm to find a maximum common subsequence longer than output of previous researchs
 > - Text Summarization in NLP
-> - The group to study Problem Solving
-> - Prepare the group to study basic datastructres and algorithms
+> - The Problem Solving study group
+> - Prepare the basic datastructres and algorithms study group
 > - Study Computational Geometric Algorithms
 
 
