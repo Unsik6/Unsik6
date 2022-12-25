@@ -20,7 +20,6 @@
 > - An algorithm to find a maximum common subsequence longer than output of previous researchs
 > - Text Summarization in NLP
 > - The Problem Solving study group
-> - Prepare the basic datastructres and algorithms study group
 > - Study Computational Geometric Algorithms
 
 
