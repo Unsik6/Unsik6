@@ -1,3 +1,4 @@
+
 # unsik6
 
 &nbsp;&nbsp;Hello, I'm unsik6. I'm currently an undergraduate researcher at Algorithm lab of INHA Univ. I am studying string algorithms and NLP. I often work on tutoring basic datastructures and algorithms to some undergraduate student. I studied developing video games, but not now.
@@ -17,11 +18,13 @@
 > - NLP modules based on Transformers
 
 ### :open_file_folder: Main personal study and work (winter, 2022)
-> - An algorithm to find a maximum common subsequence longer than output of previous researchs
+> - An algorithm to find a longer maximum common subsequence than output of previous researchs
 > - Text Summarization in NLP
 > - The Problem Solving study group
 > - Study Computational Geometric Algorithms
 
+### :bookmark_tabs: Publications
+> - Hyeonjun Shin, & Jeon Seop Sim. A New Algorithm of Finding a Maximal Common Subsequence of Two Strings. Korea Software Congress 2022, 1212-1214.
 
 <br/> <br/>
 
