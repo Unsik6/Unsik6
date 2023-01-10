@@ -25,8 +25,8 @@
 
 ### :bookmark_tabs: Publications and Conferences
 > 1. Hyeonjun Shin, Jeong Seop Sim†, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
->   - Paper: Korean Institute of Information Scientists and Engineer Proceedings - KSC2022, 1212-1214
->   - Won The Top Paper of Theoretical Computer Science Award
+>    - Paper: Korean Institute of Information Scientists and Engineer Proceedings - KSC2022, 1212-1214
+>    - Won The Top Paper of Theoretical Computer Science Award
 
 <br/> <br/>
 
