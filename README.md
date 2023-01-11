@@ -24,7 +24,7 @@
 > - Study Computational Geometric Algorithms
 
 ### :bookmark_tabs: Publications and Conferences
-> 1. Hyeonjun Shin, Jeong Seop Sim†, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
+> 1. Hyeonjun Shin, Jeong Seop Sim, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
 >    - Paper: Proceedings of Korean Institute of Information Scientists and Engineer - KSC2022, 1212-1214
 >    - Won The Top Paper of Theoretical Computer Science Award
 
