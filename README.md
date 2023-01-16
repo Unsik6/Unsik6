@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlsguswns1196xx@gmail.com)](mailto:tlsguswns1196xx@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/about/)
+[![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/)
 
 ### :pencil2: Languages I am learning
 > -  C, C++, C#
