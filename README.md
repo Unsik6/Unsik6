@@ -9,18 +9,16 @@
 
 ### :pencil2: Languages I am learning
 > -  C, C++, C#
-> -  CUDA C of NVIDIA
 > -  Python
 
 ### :computer: Programs I am learning
-> - Unity
-> - CUDA
-> - NLP modules based on Transformers
+> - AI modules based on Transformers
+> - AI modules to classify images
 
-### :open_file_folder: Main personal study and work (winter, 2023)
+### :open_file_folder: Main personal study and work (spring, 2023)
 > - An algorithm to find a maximum common subsequence longer than outputs of previous researchs
-> - Text Summarization in NLP
-> - The Problem Solving study group
+> - Insect images classification
+> - Lead the data structures and algorithms study group
 > - Study Computational Geometric Algorithms
 
 ### :bookmark_tabs: Publications and Conferences
