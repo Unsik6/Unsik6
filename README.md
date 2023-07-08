@@ -26,7 +26,7 @@
 > 2. <b><u>Hyeonjun Shin</u></b>, Joong Chae Na, Jeong Seop Sim, (accepted) "An Improved Algorithm of Finding a Maximal Common Subsequence", Journal of KIISE (2023) [In Korean]
 
 <br/> <br/>
-
+&nbsp;&nbsp;You can see more details of my experience in [<i>About</i> page of my blog](https://unsik6.github.io/about.html).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unsik6&show_icons=true&theme=tokyonight)
