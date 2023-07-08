@@ -1,7 +1,7 @@
 
 # unsik6
 
-&nbsp;&nbsp;Hello, I'm unsik6. I was an undergraduate researcher at Algorithm lab of Inha Univ. I am studying string algorithms, computational geometry algorithms and NLP. I often work on tutoring basic datastructures and algorithms to some undergraduate student. I studied developing video games, but not now.
+&nbsp;&nbsp;Hello, I'm unsik6. I was an undergraduate researcher at Algorithm lab of Inha Univ. Now, I am on a seaosonal research internship of POSTECH. I am studying algorithms and computational geometry algorithms of theoretical computer science. I often work on tutoring basic datastructures and algorithms to some undergraduate student. I studied developing video games, but not now.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlsguswns1196xx@gmail.com)](mailto:tlsguswns1196xx@gmail.com)
@@ -12,12 +12,10 @@
 > -  Python
 
 ### :computer: Programs I am learning
-> - AI modules based on Transformers
-> - AI modules to classify images
+> - CV modules such as YOLO
 
 ### :open_file_folder: Main personal study and work (spring, 2023)
-> - An algorithm to find a maximum common subsequence longer than outputs of previous researchs
-> - Insect images classification
+> - Insect images detection & classification
 > - Lead the data structures and algorithms study group
 > - Study Computational Geometric Algorithms
 
