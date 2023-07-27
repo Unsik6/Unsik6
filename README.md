@@ -14,7 +14,7 @@
 ### :computer: Programs I am learning
 > - CV modules such as YOLO
 
-### :open_file_folder: Main personal study and work (spring, 2023)
+### :open_file_folder: Main personal study and work (Summer-Fall, 2023)
 > - Insect images detection & classification
 > - Lead the data structures and algorithms study group
 > - Study Computational Geometric Algorithms
