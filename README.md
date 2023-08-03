@@ -31,6 +31,8 @@
     - Won The Top Paper of Theoretical Computer Science Award
 2. <b><u>Hyeonjun Shin</u></b>, Joong Chae Na, Jeong Seop Sim, (accepted) "An Improved Algorithm of Finding a Maximal Common Subsequence", Journal of KIISE (2023) [In Korean]
 
+<br/><br/>
+
 ## :runner: Research Experience & Others
 1. <b>Embedded CV application developer of Seeds, the developer club (2023.03.~)</b>
     - Develop insect images detctor and classifier, which is embedded the application.<br/>
