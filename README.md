@@ -29,6 +29,8 @@
 1. <b><u>Hyeonjun Shin</u></b>, Jeong Seop Sim, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
     - Paper: [Proceedings of Korean Institute of Information Scientists and Engineer - KSC2022, 1212-1214 [In Korean]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224388)
     - Won The Top Paper of Theoretical Computer Science Award
+
+
 2. <b><u>Hyeonjun Shin</u></b>, Joong Chae Na, Jeong Seop Sim, (accepted) "An Improved Algorithm of Finding a Maximal Common Subsequence", Journal of KIISE (2023) [In Korean]
 
 <br/><br/>
@@ -38,8 +40,12 @@
     - Develop insect images detctor and classifier, which is embedded the application.<br/>
     - Develop image crawler based on selenium and google chrome driver.<br/>
     - Develop semi-supervised labeler based on <a href = "https://www.kaggle.com/datasets/vencerlanz09/insect-village-synthetic-dataset">Insect Village Synthetic Dataset opened by MARIONETTE</a>.
+
+
 2. <b>Summer research internship program of POSTECH. (2023.07.~2023.07.)</b>
     - Study the algorithm solving problems of graph theory in hyperbolic random graph.
+
+
 3. <b>Undergraduate Researcher of Algorithm & Application Lab in INHA Univ. (2022.02.~2023.02.)</b>
     - Researched maximal common subsequence algorithm
     - Involved in NLP project: Project management, well-known model and metrics analysis
