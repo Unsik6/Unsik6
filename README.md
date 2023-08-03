@@ -11,13 +11,19 @@
 -  C, C++, C#
 -  Python
 
+<br/><br/>
+
 ## :computer: Programs I am learning
 - CV modules such as YOLO
+
+<br/><br/>
 
 ## :open_file_folder: Main personal study and work (Summer-Fall, 2023)
 - Insect images detection & classification
 - Lead the data structures and algorithms study group
 - Study Computational Geometric Algorithms
+
+<br/><br/>
 
 ## :bookmark_tabs: Publications and Conferences
 1. <b><u>Hyeonjun Shin</u></b>, Jeong Seop Sim, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
