@@ -7,25 +7,25 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlsguswns1196xx@gmail.com)](mailto:tlsguswns1196xx@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/)
 
-### :pencil2: Languages I am learning
+## :pencil2: Languages I am learning
 -  C, C++, C#
 -  Python
 
-### :computer: Programs I am learning
+## :computer: Programs I am learning
 - CV modules such as YOLO
 
-### :open_file_folder: Main personal study and work (Summer-Fall, 2023)
+## :open_file_folder: Main personal study and work (Summer-Fall, 2023)
 - Insect images detection & classification
 - Lead the data structures and algorithms study group
 - Study Computational Geometric Algorithms
 
-### :bookmark_tabs: Publications and Conferences
+## :bookmark_tabs: Publications and Conferences
 1. <b><u>Hyeonjun Shin</u></b>, Jeong Seop Sim, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
     - Paper: [Proceedings of Korean Institute of Information Scientists and Engineer - KSC2022, 1212-1214 [In Korean]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224388)
     - Won The Top Paper of Theoretical Computer Science Award
 2. <b><u>Hyeonjun Shin</u></b>, Joong Chae Na, Jeong Seop Sim, (accepted) "An Improved Algorithm of Finding a Maximal Common Subsequence", Journal of KIISE (2023) [In Korean]
 
-### :runner: Research Experience & Others
+## :runner: Research Experience & Others
 1. <b>Embedded CV application developer of Seeds, the developer club (2023.03.~)</b>
     - Develop insect images detctor and classifier, which is embedded the application.<br/>
     - Develop image crawler based on selenium and google chrome driver.<br/>
