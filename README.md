@@ -3,7 +3,6 @@
 
 &nbsp;&nbsp;Hello, I'm unsik6. I was an undergraduate researcher at Algorithm lab of Inha Univ. I am studying algorithms and computational geometry algorithms of theoretical computer science. I often work on tutoring basic datastructures and algorithms to some undergraduate student. I studied developing video games, but not now.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funsik6.github.io&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlsguswns1196xx@gmail.com)](mailto:tlsguswns1196xx@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/)
 
