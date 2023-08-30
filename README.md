@@ -46,10 +46,14 @@
 
 
 3. <b>Undergraduate Researcher of Algorithm & Application Lab in INHA Univ. (2022.02.~2023.02.)</b>
-    - Researched maximal common subsequence algorithm
-    - Involved in NLP project: Project management, well-known model and metrics analysis
-    - Give presentations about basic data structures, basic algorithms and papers at weekly lab seminars
-    - Tutor of lecture on problem solving and lecture on data structures
+	- Performed research on maximal common subsequence algorithms.<br/>
+	- Presented a paper on MCS at KSC 2022 conference and submitted it to the Journal 
+of KIISE.<br/>
+	- Wrote the guideline for Git Server practice.<br/>
+	- Contributed to NLP project: managing the project, researching on KoBART model 
+and NLP metrics.<br/>
+	- Provided tutoring for two lectures on problem solving and data structures.<br/>
+	- Presented data structures and algorithms at weekly lab seminars.<br/>
 
 <br/> <br/>
 &nbsp;&nbsp;You can see more details of my experience in [<i>About</i> page of my blog](https://unsik6.github.io/about.html).
