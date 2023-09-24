@@ -30,7 +30,7 @@
     - Won The Top Paper of Theoretical Computer Science Award
 
 
-2. <b><u>Hyeonjun Shin</u></b>, Joong Chae Na, Jeong Seop Sim, (accepted) "An Improved Algorithm of Finding a Maximal Common Subsequence", Journal of KIISE (2023) [In Korean]
+2. [<b><u>Hyeonjun Shin</u></b>, Joong Chae Na, Jeong Seop Sim, (accepted) "An Improved Algorithm of Finding a Maximal Common Subsequence", Journal of KIISE (2023) [In Korean]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11519753)
 
 <br/><br/>
 
