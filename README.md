@@ -1,26 +1,19 @@
 
 # unsik6
 
-&nbsp;&nbsp;Hello, I'm unsik6. I was an undergraduate researcher at Algorithm lab of Inha Univ. I am studying algorithms and computational geometry algorithms of theoretical computer science. I often work on tutoring basic datastructures and algorithms to some undergraduate student. I studied developing video games, but not now.
+&nbsp;&nbsp;Hello, I'm unsik6. I am integrated PhD program student major in CSE(Computer Sience and Engineering) at POSTECH(Pohang University of Science and Technology) from 2024.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlsguswns1196xx@gmail.com)](mailto:tlsguswns1196xx@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&link=https://blog.naver.com/tlsguswns119)](https://blog.naver.com/tlsguswns119) [![Blog Badge](http://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&link=https://unsik6.github.io/about/)](https://unsik6.github.io/)
 
-## :pencil2: Languages I am learning
+## :pencil2: Languages I am learning individually
 -  C, C++, C#
 -  Python
 
 <br/><br/>
 
-## :computer: Programs I am learning
-- CV modules such as YOLO
-
-<br/><br/>
-
-## :open_file_folder: Main personal study and work (Summer-Fall, 2023)
-- Insect images detection & classification
-- Lead the data structures and algorithms study group
-- Study Computational Geometric Algorithms
+## :open_file_folder: Main personal study and work
+- Study graph algorithms, computational ceometric Algorithms, parameterized algorithms and approximation algorithms.
 
 <br/><br/>
 
@@ -35,7 +28,7 @@
 <br/><br/>
 
 ## :runner: Research Experience & Others
-1. <b>Embedded CV application developer of Seeds, the developer club (2023.03.~)</b>
+1. <b>Embedded CV application developer of Seeds, the developer club (2023.03. ~ 2023.10.)</b>
     - Develop insect images detctor and classifier, which is embedded the application.<br/>
     - Develop image crawler based on selenium and google chrome driver.<br/>
     - Develop semi-supervised labeler based on <a href = "https://www.kaggle.com/datasets/vencerlanz09/insect-village-synthetic-dataset">Insect Village Synthetic Dataset opened by MARIONETTE</a>.
