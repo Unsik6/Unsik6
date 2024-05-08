@@ -13,7 +13,7 @@
 <br/><br/>
 
 ## :open_file_folder: Main personal study and work
-- Study graph algorithms, computational ceometric Algorithms, parameterized algorithms and approximation algorithms.
+- Study graph algorithms, computational geometric algorithms, parameterized algorithms and approximation algorithms.
 
 <br/><br/>
 
