@@ -19,10 +19,8 @@
 
 ## :bookmark_tabs: Publications and Conferences
 **< International >**
-1. Shinwoo An, Yeonsu Chang, Kyungjin Cho, O-joung Kwon, Myounghwan Lee, Eunjin Oh, <b><u>Hyeonjun Shin</u></b>, (accepted) Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs, AAAI 25.
 
-
-2. [Shinwoo An, Kyungjin Cho, Leo Jang, Byeonghyeon Jung, Yudam Lee, Eunjin Oh, Donghun Shin, <b><u>Hyeonjun Shin</u></b>, and Chanho Song, "Dynamic Parameterized Problems on Unit Disk Graphs", 35th International Symposium on Algorithms and Computation (ISAAC 2024)](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2024.6)
+1. [Shinwoo An, Kyungjin Cho, Leo Jang, Byeonghyeon Jung, Yudam Lee, Eunjin Oh, Donghun Shin, <b><u>Hyeonjun Shin</u></b>, and Chanho Song, "Dynamic Parameterized Problems on Unit Disk Graphs", 35th International Symposium on Algorithms and Computation (ISAAC 2024)](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2024.6)
 
 **< Domestic >**
 1. <b><u>Hyeonjun Shin</u></b>, Jeong Seop Sim, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
