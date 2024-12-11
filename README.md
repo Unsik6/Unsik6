@@ -19,7 +19,7 @@
 
 ## :bookmark_tabs: Publications and Conferences
 **< International >**
-1. Shinwoo An, Kyungjin Cho, Leo Jang, Byeonghyeon Jung, Yudam Lee, Eunjin Oh, Donghun Shin, <b><u>Hyeonjun Shin</u></b>, and Chanho Song, (accepted) "Dynamic Parameterized Problems on Unit Disk Graphs". (ISAAC 2024)
+1. [Shinwoo An, Kyungjin Cho, Leo Jang, Byeonghyeon Jung, Yudam Lee, Eunjin Oh, Donghun Shin, <b><u>Hyeonjun Shin</u></b>, and Chanho Song, (accepted) "Dynamic Parameterized Problems on Unit Disk Graphs". 35th International Symposium on Algorithms and Computation (ISAAC 2024)] (https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2024.6)
 
 **< Domestic >**
 1. <b><u>Hyeonjun Shin</u></b>, Jeong Seop Sim, "A New Algorithm of Finding a Maximal Common Subsequence of Two Strings", Korea Software Congress 2022, Jeju, Korea (Dec. 2022) – Oral [In Korean]
